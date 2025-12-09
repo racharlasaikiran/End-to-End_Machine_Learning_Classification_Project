@@ -16,16 +16,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow / Keras, Ju
 
 - Classification Models Implemented:- Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree Classifier, AdaBoost Classifier, Gradient Boosting Classifier, XGBoost Classifier, Artificial Neural Network (ANN).
 
-🔹 Model Evaluation
-
-Each model is evaluated using the following metrics:
-
-Accuracy Score
-
-Precision
-
-Recall
-
-F1-Score
-
-Confusion Matrix
+- Model Evaluation:- Accuracy Score, Precision, Recall, F1-Score, Confusion Matrix
